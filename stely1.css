@@ -1,3 +1,34 @@
-body{
+body {
+    background-image: url(25965488-seamless-many-dumplings-blue-background--Stock-Photo.jpg);
+    background-size: 5%;
     
+}
+.main{
+    margin: 0 auto;
+}
+.box{
+    height: 290px;
+    width: 325px;
+    text-align: center  
+}
+.box img{
+    width: 300px;
+    height: 135px
+}
+.box button{
+   margin: 10px;
+    border-radius: 5px;
+    background: black;
+    color: #61e825;
+    border: none;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap
+}
+.block{
+    border: 3px solid black;
+    width: 980px;
+    margin: 0 auto;
+    background: grey
 }
